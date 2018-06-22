@@ -1,0 +1,24 @@
+{
+  "name": "logagent-input-logstash-stats",
+  "version": "1.0.5",
+  "description": "Monitoring for Logstash with Logagent ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sematext/logagent-input-logstash-stats.git"
+  },
+  "keywords": [
+    "monitoring",
+    "logstash"
+  ],
+  "author": "Stefan Thies",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sematext/logagent-input-logstash-stats/issues"
+  },
+  "homepage": "https://github.com/sematext/logagent-input-logstash-stats#readme",
+  "dependencies": {
+    "flat": "^2.0.1",
+    "restler": "^3.4.0"
+  }
+}
